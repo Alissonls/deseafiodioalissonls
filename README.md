@@ -1,5 +1,5 @@
 # repositório-desafios-github-dio
-Desafios Dio
+Repostório criado para o Desafio de projeto
 
 ##Links úteis
 
